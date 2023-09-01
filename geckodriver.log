@@ -1,0 +1,219 @@
+1691949407811	geckodriver	INFO	Listening on 127.0.0.1:36511
+1691949410839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "36512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARSHITA\\AppData\\Local\\Temp\\rust_mozprofilerg9f7i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691949411387	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691949411572	Marionette	INFO	Listening on port 36520
+WebDriver BiDi listening on ws://127.0.0.1:36512
+Read port: 36520
+1691949411868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:36512/devtools/browser/b64efa35-eee6-4bba-a613-dd2f1b372882
+1691949623093	Marionette	INFO	Stopped listening on port 36520
+Dynamically enable window occlusion 1
+[Parent 6804, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8488, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6804, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8488, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6804, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_1691949624295	Marionette	INFO	Stopped listening on port 36581
+Dynamically enable window occlusion 1
+[Parent 9796, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6036, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9796, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6036, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9796, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+JavaScript warning: https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2, line 1: Script terminated by timeout at:
+e@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:45448
+
+[Parent 14948, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2960, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f62dc37deb233ae, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f62df4e7b868ae1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f62e186bb3333d2, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f62e1f5fc6233d2, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691949908466	Marionette	INFO	Stopped listening on port 36789
+Dynamically enable window occlusion 1
+[Parent 14948, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2960, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14948, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2960, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14948, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2960, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692031772432	geckodriver	INFO	Listening on 127.0.0.1:38284
+1692031775469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "38285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARSHITA\\AppData\\Local\\Temp\\rust_mozprofileTSQb0h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692031776059	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692031776264	Marionette	INFO	Listening on port 38292
+WebDriver BiDi listening on ws://127.0.0.1:38285
+Read port: 38292
+1692031776694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:38285/devtools/browser/94624ec4-c2dc-46d1-926b-f0e445316276
+JavaScript warning: https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2, line 1: Script terminated by timeout at:
+e/</e.prototype.getBackend@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:83027
+e/</e.prototype.addBreadcrumb@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:82799
+e/</</e.prototype.invokeClient@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:75893
+e/</</e.prototype.addBreadcrumb@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:77600
+e/</</l.addBreadcrumb@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:53655
+r@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:52971
+abort@https://c03.s3.indeed.com/m/s/c38e1170e7c57ed6d11f/scripts/8484.js:1:18776
+58937/cleanupActiveRequests/<@https://c03.s3.indeed.com/m/s/c38e1170e7c57ed6d11f/scripts/8484.js:1:20312
+cleanupActiveRequests@https://c03.s3.indeed.com/m/s/c38e1170e7c57ed6d11f/scripts/8484.js:1:20273
+cleanUp@https://c03.s3.indeed.com/m/s/c38e1170e7c57ed6d11f/scripts/8484.js:1:23383
+58937/d/this.handleDeactivate@https://c03.s3.indeed.com/m/s/c38e1170e7c57ed6d11f/scripts/8484.js:1:21057
+e@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:45635
+
+1692031796612	Marionette	INFO	Stopped listening on port 38292
+Dynamically enable window occlusion 1
+[Parent 17092, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14088, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17092, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14088, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17092, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14088, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692032231740	geckodriver	INFO	Listening on 127.0.0.1:38510
+1692032234758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "38511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARSHITA\\AppData\\Local\\Temp\\rust_mozprofileNt2OIl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692032235205	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692032235340	Marionette	INFO	Listening on port 38518
+WebDriver BiDi listening on ws://127.0.0.1:38511
+Read port: 38518
+1692032235771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:38511/devtools/browser/08778f6b-24da-4334-ba2e-8faa08475057
+JavaScript error: https://c03.s3.indeed.com/m/s/8f1092b50729a11e758b/scripts/3239.js, line 1: TypeError: this.props.logger is undefined
+JavaScript error: https://c03.s3.indeed.com/m/s/8f1092b50729a11e758b/scripts/3239.js, line 1: TypeError: this.props.logger is undefined
+JavaScript warning: https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2, line 1: Script terminated by timeout at:
+e@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:45448
+
+1692032441270	Marionette	INFO	Stopped listening on port 38518
+Dynamically enable window occlusion 1
+[Parent 13188, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13188, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13188, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9680, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+orkError when attempting to fetch resource.
+JavaScript warning: https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js, line 1: Script terminated by timeout at:
+b@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:6501
+m@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:5398
+890/qe<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:30650
+890/t.prototype.transformDocument@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:121915
+890/e.prototype.transform@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:69255
+890/e.prototype.mutate/ar</<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:65179
+7025/c/s/</<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:156474
+7025/c/s/<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:156579
+7025/s/<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:155495
+s@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:155240
+890/e.prototype.mutate@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:64598
+890/e.prototype.mutate@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:83627
+recordJobTimeInViewport@https://c03.s3.indeed.com/mosaic-provider-jobcards/dist/235.656288d485347dfaa86d.js:2:161329
+fo@https://c03.s3.indeed.com/mosaic-provider-jobcards/dist/235.656288d485347dfaa86d.js:2:117233
+n@https://c03.s3.indeed.com/mosaic-provider-jobcards/dist/235.656288d485347dfaa86d.js:2:154079
+e@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:45635
+
+[Parent 7380, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f, line 1: Script terminated by timeout at:
+gc@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:133760
+fW/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130025
+fW/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130383
+fW@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130422
+g3@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:152711
+fW/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130025
+fW/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130383
+fW@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130422
+g3@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:152733
+fW/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130025
+fW/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130383
+fW@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130422
+g3@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:152711
+fW/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130025
+fW/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130383
+fW@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6abfa46a3b848f:1:130422
+
+[Parent 7380, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://c03.s3.indeed.com/m/s/8f1092b50729a11e758b/scripts/3239.js, line 1: TypeError: this.props.logger is undefined
+JavaScript error: https://c03.s3.indeed.com/m/s/8f1092b50729a11e758b/scripts/3239.js, line 1: TypeError: this.props.logger is undefined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+JavaScript warning: https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js, line 1: Script terminated by timeout at:
+ne@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:18343
+leave@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:13949
+m@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:6104
+Z@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:13558
+se@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:18678
+ue@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:19688
+890/ve/<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:21343
+6706/e.execute@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:152610
+890/e.prototype.getObservableFromLink@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:75149
+890/e.prototype.mutate/ar</</<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:65700
+890/e.prototype.mutate/ar</<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:65661
+7025/c/s/</<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:156474
+7025/c/s/<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:156579
+7025/s/<@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:155495
+s@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:155240
+890/e.prototype.mutate@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:64598
+890/e.prototype.mutate@https://c03.s3.indeed.com/dist/header/890.72d9fb2b0d89de95c0a5.js:1:83627
+recordJobTimeInViewport@https://c03.s3.indeed.com/mosaic-provider-jobcards/dist/235.656288d485347dfaa86d.js:2:161329
+fo@https://c03.s3.indeed.com/mosaic-provider-jobcards/dist/235.656288d485347dfaa86d.js:2:117233
+n@https://c03.s3.indeed.com/mosaic-provider-jobcards/dist/235.656288d485347dfaa86d.js:2:154079
+e@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:45635
+
+1692032443106	Marionette	INFO	Stopped listening on port 38619
+Dynamically enable window occlusion 1
+[Parent 7380, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7380, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7380, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692032444844	geckodriver	INFO	Listening on 127.0.0.1:38695
+1692032447870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "38696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARSHITA\\AppData\\Local\\Temp\\rust_mozprofilevL09pG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692032448351	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692032448604	Marionette	INFO	Listening on port 38703
+WebDriver BiDi listening on ws://127.0.0.1:38696
+Read port: 38703
+1692032448991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:38696/devtools/browser/ee246c32-5532-4467-ab7b-dc014077bd2e
+JavaScript error: https://c03.s3.indeed.com/m/s/8f1092b50729a11e758b/scripts/3239.js, line 1: TypeError: this.props.logger is undefined
+JavaScript error: https://c03.s3.indeed.com/m/s/8f1092b50729a11e758b/scripts/3239.js, line 1: TypeError: this.props.logger is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2, line 1: Script terminated by timeout at:
+e@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js?2:1:45448
+
+[Parent 860, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3516, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=7f6ac1c14ca28596, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692032473778	Marionette	INFO	Stopped listening on port 38703
+Dynamically enable window occlusion 1
+[Parent 860, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3516, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 860, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3516, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 860, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3516, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+1692034669011	geckodriver	INFO	Listening on 127.0.0.1:39362
+1692034769923	geckodriver	INFO	Listening on 127.0.0.1:39447
+1692034800711	geckodriver	INFO	Listening on 127.0.0.1:39455
+1692034808929	geckodriver	INFO	Listening on 127.0.0.1:39462
+1692034903379	geckodriver	INFO	Listening on 127.0.0.1:39510
+Invalid port. Exiting...
